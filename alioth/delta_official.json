@@ -1,18 +1,18 @@
 {
   "response": [
     {
-      "datetime": 1781613060,
-      "filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-1220.zip",
-      "expected_filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-1143.zip",
-      "url": "https://sourceforge.net/projects/project-ascp/files/alioth/ASCP-incremental-alioth-20260616-1143-to-20260616-1220.zip",
-      "md5": "75c5c5b67f22e69c735b414e765ca4ec",
+      "datetime": 1781638987,
+      "filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-1934.zip",
+      "expected_filename": "ASCP-v5.5-alioth-OFFICIAL-20260616-1858.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/alioth/ASCP-incremental-alioth-20260616-1858-to-20260616-1934.zip",
+      "md5": "6bb21747334f1e6356c396e22a4712f9",
       "payload": [
         {
-          "offset": 5138,
-      "FILE_HASH": "xrTdqNhMCy77u5FeJzYBbA8kJMq+5Hx1sc7ybvwYvtI=",
-      "FILE_SIZE": "17003800",
-      "METADATA_HASH": "irGjwerDki5C5JQW12+NXsaWp8lIApI0i4z11KBg5fs=",
-      "METADATA_SIZE": "638292"
+          "offset": 5124,
+      "FILE_HASH": "ETDuCCCAj66bbTfn8g+rbsn5BhU0IEKJnri4FStu0os=",
+      "FILE_SIZE": "16887219",
+      "METADATA_HASH": "tUqo0XIIouUDmzpkV1ITq8Yg+64BjssDlE0+AFKdMas=",
+      "METADATA_SIZE": "639369"
         }
       ]
     }
