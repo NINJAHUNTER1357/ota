@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "datetime": 1781708606,
+      "filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1443.zip",
+      "expected_filename": "ASCP-v5.5-marble-OFFICIAL-20260617-1428.zip",
+      "url": "https://sourceforge.net/projects/project-ascp/files/marble/ASCP-incremental-marble-20260617-1428-to-20260617-1443.zip",
+      "md5": "1e6a721243030afc282f8b8b082b3e1c",
+      "payload": [
+        {
+          "offset": 5586,
+      "FILE_HASH": "9slVjBeNTZ7PKT4wLEih37cXWIKVtwQyeXkZ4hBU5Bs=",
+      "FILE_SIZE": "503907",
+      "METADATA_HASH": "T5qDNWF4Z2WwkoFMoGva7AuuyHbafV8EZcfMj8Qzynk=",
+      "METADATA_SIZE": "498905"
+        }
+      ]
+    }
+  ]
+}
